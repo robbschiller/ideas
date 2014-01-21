@@ -1,11 +1,11 @@
 # ideas
 
-## scratchpad
+## tabula
 
 Single markdown file with iOS/OSX view, synced through iCloud. Contstraint of single file forces user to focus on less words to organize more.
 
-## Personal Data Aggregator
+## mauris
 
-Single platform displaying data from devices collecting every type of data relating to a person. Sort and store of that information into usable updates. Display catagorically - Assets, Health, Relationships, Etc.
+Dashboard for personal data. Non-active collection through API.
 
 i.e. [Human API](http://humanapi.co/)
