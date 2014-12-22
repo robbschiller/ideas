@@ -18,10 +18,14 @@ Peer-to-peer product rentals via the [Bitcoin smart property contracts](https://
 
 ## notio
 
-Conversations platform allowing public or private, group or broadcast style messages. Could use bitcoin as a micropayment transaction for each message, assuing "ad-free".
+Conversations platform allowing public or private, group or broadcast style messages. Could use bitcoin as a micropayment transaction for each message, assuring "ad-free".
 
 i.e. [Inbox](https://www.inboxapp.com)
 
 ## partem
 
 Anonymous posts exploring the meaning of human existence.
+
+## scribo
+
+iOS app with GitHub oauth for writing markdown posts into github hosted blogs.
