@@ -29,3 +29,15 @@ Anonymous posts exploring the meaning of human existence.
 ## scribo
 
 iOS app with GitHub oauth for writing markdown posts into github hosted blogs.
+
+## brevis
+
+Business performance dashboard
+
+i.e. [Geckoboard](https://www.geckoboard.com), [Grow](https://www.grow.com)
+
+## res
+
+Commercial real estate invoicing/managing
+
+i.e. [Cozy](https://cozy.co)
